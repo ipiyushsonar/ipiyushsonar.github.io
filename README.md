@@ -1,8 +1,8 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
+    <h2 align="center">My Developer Portfolio & Website · <a href=""><img src="" alt="Build Status" data-canonical-src="" style="max-width:100%;"></a></h2>
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">This is a simple and minimalist portfolio site built using Jekyll for those who like simplicity.</p>
 
 ***
 
@@ -29,7 +29,6 @@
 
 ## Setup
 
-0. :star: to the project. :metal:
 1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
 2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
 3. Write some posts :bowtie:
@@ -49,7 +48,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: John Doe
-bio: 'A Man who travels the world eating noodles'
+bio: 'A Man who develops software with coffee'
 picture: 'assets/images/profile.jpg'
 ...
 
@@ -63,4 +62,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 ---
 ## License
 
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+[MIT](http://piyush.mit-license.org/) License © Piyush Sonar
