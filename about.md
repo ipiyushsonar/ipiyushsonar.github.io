@@ -6,7 +6,7 @@ layout: page
 
 <h2>Hello!</h2>
 
-<p>My name is Piyush Sonar and I'm a <strong>Full Stack Web Developer</strong> & <strong> AWS Cloud Associate</strong> living in Pune,India.</p>
+<p>My name is Piyush Sonar and I'm a <strong>Full Stack Web Developer</strong>, <strong>Data Engineer</strong> & <strong>AWS Cloud Associate</strong> living in Pune,India.</p>
 
 <p>I am currently a member of the <a href="https://gnome.org/foundation">Github Campus Expert Program</a> and also <a href="https://gnome.org/foundation"> AWS Cloud Campus Advisor </a>. I was formerly an Ubuntu member.</p>
 
