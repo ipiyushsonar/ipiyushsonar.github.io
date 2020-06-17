@@ -8,7 +8,7 @@ layout: page
 
 <p>My name is Piyush Sonar and I'm a <strong>Full Stack Web Developer</strong>, <strong>Data Engineer</strong> & <strong>AWS Cloud Associate</strong> living in Pune,India.</p>
 
-<p>I am currently a member of the <a href="https://gnome.org/foundation">Github Campus Expert Program</a> and also <a href="https://gnome.org/foundation"> AWS Cloud Campus Advisor </a>. I was formerly an Ubuntu member.</p>
+<p>I am currently a member of the <a href="https://gnome.org/foundation">Github Campus Expert Program</a> and also <a href="https://gnome.org/foundation"> AWS Cloud Campus Advisor. </a>I was formerly an Ubuntu member.</p>
 
 <p>In my work I tend to focus on back-end developement, front-end user interface & some graphic design. I believe that good software/app should be simple, have easy to understand user interface whitch in turn recflects in good user experience. If an application is meaningful and well-crafted, it need not be frequently redesigned nor deviate from familiar metaphors.</p>
 
