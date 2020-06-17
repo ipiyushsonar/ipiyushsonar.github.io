@@ -2,45 +2,23 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Hello!</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My name is Piyush Sonar and I'm a <strong>Full Stack Web Developer</strong> & <strong> AWS Cloud Associate</strong> living in Pune,India.</p>
 
-<h2>Skills</h2>
+<p>I am currently a member of the <a href="https://gnome.org/foundation">Github Campus Expert Program</a> and also <a href="https://gnome.org/foundation"> AWS Cloud Campus Advisor </a>. I was formerly an Ubuntu member.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>In my work I tend to focus on back-end developement, front-end user interface & some graphic design. I believe that good software/app should be simple, have easy to understand user interface whitch in turn recflects in good user experience. If an application is meaningful and well-crafted, it need not be frequently redesigned nor deviate from familiar metaphors.</p>
 
-<h2>Projects</h2>
+<h2>Free Software</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>I am a proponent of the use of Linux & free software and a believer in the open source model of development. As such, my design toolkit is comprised primarily of free & open source software (FOSS), primarily <a href="https://inkscape.org">Visual Studio Code from Microsoft</a> text editor for writing code and <a href="https://inkscape.org">Inkscape </a> & <a href="https://gimp.org">GIMP</a> for graphics designing. I also use other FOSS tools for development.
+
+<p>To do my part as a member of the FOSS community, I've been a design contributor to many free software projects over the years, such as the <a href="https://elementory.io">elementary</a>, <a href="https://gnome.org">GNOME</a>, <a href="https://www.solus-project.com">Solus</a> and <a href="https://ubuntu.com">Ubuntu</a> projects, along with many other small contributions.</p>
+
+
+<h2>Gaming!</h2>
+
+<p>Aside from design and software developement, I'm have a great passion for gaming and content creation and my gaming <a href="https://www.youtube.com/channel/UCkIt7sFMRB0nfVDlIlnP7EA">youtube channel</a> is where I document many great gameplays and other endeavours.</p>
