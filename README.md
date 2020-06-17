@@ -1,6 +1,7 @@
 <p align="center">
-    <h2 align="center">My Developer Portfolio & Website · <a href=""><img src="" alt="Build Status" data-canonical-src="" style="max-width:100%;"></a></h2>
+    <h2 align="center">My Developer Portfolio & Website</h2> 
 </p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/00127c51-3cff-469b-8ee3-1800806fc20f/deploy-status)](https://app.netlify.com/sites/ipiyushsonar/deploys)
 
 <p align="center">This is a simple and minimalist portfolio site built using Jekyll for those who like simplicity.</p>
 
