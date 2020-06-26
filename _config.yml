@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/Piyush_Sonar_Resume_v2.1.pdf
+resume-url: https://github.com/ipiyushsonar/ipiyushsonar.github.io/blob/master/assets/Piyush_Sonar_Resume_v2.1.pdf
 
 url: https://ipiyushsonar.github.io/
 
