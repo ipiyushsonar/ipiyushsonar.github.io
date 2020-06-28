@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1I4TnkxRnKzU5APN-zw8Rsfpw4L3MuI2d/view
 
 url: https://ipiyushsonar.github.io/
 
@@ -22,7 +22,8 @@ url: https://ipiyushsonar.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-58016230-3
+'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
