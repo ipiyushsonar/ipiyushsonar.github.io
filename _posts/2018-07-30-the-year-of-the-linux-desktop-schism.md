@@ -16,7 +16,7 @@ The phrase “The Year of the Linux Desktop” is one we see being used by hopef
 
 But I’m more pragmatic, and would like to describe the past and tweak this phrase to (I believe) accurately surmise 2011 as “The Year of the Linux Desktop Schism”.
 
-![](https://samuelhewitt.com/images/blog/2014/11/desktop-schism.png)
+![](https://samuelhewitt.com/blog/img/2014/desktop-schism.png)
 
 So let me tell you a little story of about this schism.
 

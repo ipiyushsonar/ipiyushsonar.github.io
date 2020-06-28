@@ -21,7 +21,7 @@ TunnelBear, as their site says, provides “Simple, private, free access to the 
 
 To use TunnelBear, I simply downloaded and installed the Tunnelbear app (which has versions available for Mac, Windows, Android & iOS –they do [support Linux](https://www.tunnelbear.com/updates/linux_support/) but not with a dedicated app) which sits in the panel for easy access. I also appreciate their attention to design; the app happens to be quite simple and best looking VPN app that I could find. Plus who doesn’t enjoy the quirky use of bears and bear metaphors.
 
-![](https://samuelhewitt.com/images/blog/2015/04/tunnelbear-tray.png)
+![](https://samuelhewitt.com/blog/img/2015/tunnelbear-tray.png)
 
 Activating the VPN is as simple as a switching it on and, when the mood strikes, I can switch countries –by having a bear tunnel to a server located in another country and giving me an IP address in that location. As you can see, I’m currently “in” the United States –even though I’m not in the United States. The benefit of this is that I can access content on the web limited by location, such as US-only Netflix content, BBC video in the UK, etc.
 

@@ -13,7 +13,7 @@ description: Using a Linux Server for Time Machine Backups
 
 Since Mac OS is one of my daily operating systems, I use the in-built Time Machine software for backups, and since I have a server running Linux it seemed apt to make it Time Machine compatible.
 
-![Screenshot of mac OS Time Machine](https://samuelhewitt.com/blog/images/2015/timemachine.png "Screenshot of mac OS Time Machine")
+![Screenshot of mac OS Time Machine](https://samuelhewitt.com/blog/img/2015/timemachine.png "Screenshot of mac OS Time Machine")
 
 To make a Linux server or old laptop or something a Time Machine, you can install [Netatalk](http://netatalk.sourceforge.net/) (plus some other stuff) on it. Netatalk is an open source implementation of Apple’s AFP file serving protocol, basically it allows a Linux computer talk to a Mac.
 
@@ -129,7 +129,7 @@ By default Mac OS doesn’t show “unsupported” or non-Apple Time Machine net
 
 If everything went well after all this, you should now be able to choose your server in the Time Machine preferences when selecting a disk.
 
-![Time Machine Selection](https://samuelhewitt.com/blog/images/2015/timemachine-choose.png "Time Machine Selection")
+![Time Machine Selection](https://samuelhewitt.com/blog/img/2015/timemachine-choose.png "Time Machine Selection")
 
 You’ll also get a login prompt when attempting to access it, just use the username and password for the Time Machine account you created on your server.
 

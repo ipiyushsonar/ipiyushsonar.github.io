@@ -6,6 +6,8 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - Linux
+- News
+- Desktop
 category: blog
 author: jamesfoster
 description: elementory OS Freya Review
@@ -14,7 +16,7 @@ description: elementory OS Freya Review
 
 Today is the day to get the latest version of elementary OS and it’s a release I’m proud to say I was a part of. So, congrats on all the good, hard work, everyone. 😄
 
-![](https://samuelhewitt.com/images/blog/2015/04/elementary-screenshot.png)
+![](https://samuelhewitt.com/blog/img/2015/elementary-screenshot.png)
 
 For those who weren’t aware: I joined the elementary team sometime ago, during the development of Freya and I, unsurprisingly, help design it. You can see my work in some of the new user interface & experience updates in the OS and (since Daniel Fore let me 😉) I got to refresh some of the elementary icons, including extending elementary’s symbolic icon theme.
 
@@ -26,25 +28,25 @@ Here are a few of the major new things we brought you in Freya:
 
 A dedicated and clear “Privacy Mode” came to elementary OS. It’s just a new face for many features that already exist within elementary and the desktop, but all controlled by one simple switch that you can flick to make your system private, if you so desired it to be.
 
-![](https://samuelhewitt.com/images/blog/2015/04/switchboard1.png)
+![](https://samuelhewitt.com/blog/img/2015/elementary-switchboard-privacy.png)
 
 ## Notifications for all
 
 Freya saw major improvement to notifications, which are now interactive and dismissible. Plus the inclusion of a notifications pane in the system settings to control all the various notifications from applications that support it and a system-wide “Do Not Disturb” mode
 
-![](https://samuelhewitt.com/images/blog/2015/04/switchboard2.png)
+![](https://samuelhewitt.com/blog/img/2015/elementary-switchboard-notifications.png)
 
 ## Workspaces
 
 Freya brought a workspaces design, focused on application multitasking.
 
-![](https://samuelhewitt.com/images/blog/2015/04/elementary-workspaces.png)
+![](https://samuelhewitt.com/blog/img/2015/elementary-workspaces.png)
 
 ## Buttery Animations
 
 Animations throughout the system have been improved dramatically, such as those of the window manager, making them a heck of a lot smoother.
 
-[![asciicast](https://i.imgur.com/xXQTfKd.png)](https://samuelhewitt.com/videos/2015/04/buttery-animations.mp4)
+[![asciicast](https://i.imgur.com/xXQTfKd.png)](https://samuelhewitt.com/blog/img/2015/buttery-animations.mp4)
 
 
 Not to mention all the other improvements:
@@ -63,4 +65,4 @@ Go read the [release notes](http://blog.elementary.io/post/116134677986/freya-is
 
 You can [get elementary](https://elementary.io/) over on the site (paying whatever you want for it) for both 32 and 64 bit machines.
 
-![](https://samuelhewitt.com/images/blog/2015/04/notebook.png)
+![](https://samuelhewitt.com/blog/img/2015/notebook.png)
