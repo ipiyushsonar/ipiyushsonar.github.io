@@ -17,7 +17,7 @@ description: DOS Gaming
 
 <p>I still consider PC games of the DOS/WIN95 era a much more influential a part of my childhood than console games of that time, such as those on Nintendo (even though I did spend a lot time playing games on the NES and SNES with friends).
 
- <p style="text-align:center;"><img src="https://samuelhewitt.com/blog/img/2015/dos-wheel-of-fortune.gif></p>
+ <p style="text-align:center;"><img src="https://samuelhewitt.com/blog/img/2015/dos-wheel-of-fortune.gif"></p>
 
 <p>This Wheel of Fortune game is one of my earliest computer game memories.</p>
 
