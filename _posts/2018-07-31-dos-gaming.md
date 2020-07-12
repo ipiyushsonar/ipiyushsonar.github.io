@@ -17,7 +17,7 @@ description: DOS Gaming
 
 <p>I still consider PC games of the DOS/WIN95 era a much more influential a part of my childhood than console games of that time, such as those on Nintendo (even though I did spend a lot time playing games on the NES and SNES with friends).
 
- <p style="text-align:center;"><img src="https://samuelhewitt.com/blog/img/2015/dos-wheel-of-fortune.gif"></p>
+ <p style="text-align:center;"><img src="https://samuelhewitt.com/blog/img/2015/dos-wheel-of-fortune.gif" alt="Wheek of Fortune"></p>
 
 <p>This Wheel of Fortune game is one of my earliest computer game memories.</p>
 
@@ -27,7 +27,7 @@ description: DOS Gaming
 
 <p>For instance, I am currently replaying <a href="https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces">Star Wars Dark Forces</a> (which is still one of my favourite games) using <a href="http://www.dosbox.com/">DOSBox</a>, more specifically through the <a href="http://boxerapp.com/">Boxer app</a> on the Mac.</p>
 
-<img src="https://samuelhewitt.com/blog/img/2015/star-wars-dark-forces.png" style="border-radius=5px;">
+<img src="https://samuelhewitt.com/blog/img/2015/star-wars-dark-forces.png" alt="Star Wars - Dark Forces" style="border-radius=5px;">
 
 <p>This nostalgia and fond memories of games long past is why I think many people (like myself) still find themselves wanting to replay them and/or develop ways to do so and many games are still great in spite of their age.</p>
 
