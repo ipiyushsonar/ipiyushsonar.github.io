@@ -18,7 +18,6 @@ layout: page
 
 <p>To do my part as a member of the FOSS community, I've been a design contributor to many free software projects over the years, such as the <a href="https://elementory.io">elementary</a>, <a href="https://gnome.org">GNOME</a>, <a href="https://www.solus-project.com">Solus</a> and <a href="https://ubuntu.com">Ubuntu</a> projects, along with many other small contributions.</p>
 
-
 <h2>Gaming!</h2>
 
 <p>Aside from design and software developement, I'm have a great passion for gaming and content creation and my gaming <a href="https://www.youtube.com/channel/UCkIt7sFMRB0nfVDlIlnP7EA">youtube channel</a> is where I document many great gameplays and other endeavours.</p>

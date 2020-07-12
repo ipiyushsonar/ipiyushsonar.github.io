@@ -25,7 +25,7 @@ Enter 1Password.
 
 1Password is a password manager that can sync locally or via their cloud service (it doesn’t have a free tier like LastPass, but it’s better designed so I went with 1Password).
 
-![](https://samuelhewitt.com/blog/img/2015/1password.png)
+![1Password](https://samuelhewitt.com/blog/img/2015/1password.png)
 
 It does the job, their desktop apps are featureful and I use both the Mac and Windows apps (when I’m on those platforms), unfortunately there’s no Linux app but there are a browser extensions or a web UI if you opt to use their cloud service for syncing passwords.
 
