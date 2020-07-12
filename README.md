@@ -2,7 +2,7 @@
     <h2 align="center">
         My Developer Portfolio & Website
         <p style="padding-top:3px"> <a href="https://app.netlify.com/sites/ipiyushsonar/deploys"><img src="https://api.netlify.com/api/v1/badges/00127c51-3cff-469b-8ee3-1800806fc20f/deploy-status" alt="Build Status" data-canonical-src="https://app.netlify.com/sites/ipiyushsonar/deploys"></a></p>
-        <p style="padding-top:3px"> <a href="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master"><img src="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master" alt="Build Status" data-canonical-src="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master"></a></p>
+        <p> <a href="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master"><img src="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master" alt="Build Status" data-canonical-src="https://travis-ci.org/ipiyushsonar/ipiyushsonar.github.io.svg?branch=master"></a></p>
     </h2>
 </p>
 
