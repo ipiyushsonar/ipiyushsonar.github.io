@@ -1,0 +1,10 @@
+# The old Jekyll site is retired. Netlify serves this repo too, so redirect everything to piyushsonar.in.
+[build]
+  command = "echo static redirect"
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "https://piyushsonar.in/"
+  status = 301
+  force = true
